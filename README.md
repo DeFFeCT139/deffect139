@@ -10,8 +10,10 @@
 
 ---
 <div id="leng-and-tools" align="center">
-  <img src="./img/lang.jpg" width="200"/>
+  <img src="./img/lang.jpg" width="400"/>
 </div>
+
+
 <div id="leng-and-tools" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30"/>
