@@ -14,8 +14,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="100"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/jquery" width="100"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/nextjs" width="100"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/jquery.svg" width="100"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/nextjs.svg" width="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="100"/>
