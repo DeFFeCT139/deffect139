@@ -1,9 +1,16 @@
 
 <div id="header" align="center">
   <img src="./img/maxresdefault.jpg" width="100%"/>
+  <br>
+</div>
+
+<div id="about" align="center">
+  <img src="./img/AboutMe.png" width="400"/>
+  <img src="./img/labalaba.png" width="400"/>
 </div>
 
 ---
+
 <div id="leng-and-tools" align="center">
   <img src="./img/stats.png" width="400"/>
 </div>
