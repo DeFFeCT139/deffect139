@@ -10,7 +10,7 @@
 
 ---
 <div id="leng-and-tools" align="center">
-  <img src="./img/lang.jpg" width="400"/>
+  <img src="./img/lang.png" width="400"/>
 </div>
 
 
