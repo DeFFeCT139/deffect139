@@ -5,6 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeFFeCT139&theme=great-gatsby&show_icons=true)
 
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div id="leng-and-tools" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30"/>
