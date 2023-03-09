@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://gfycat.com/eleganthalfamericancicada" width="100"/>
+  <img src="./img/maxresdefault.jpg" width="100%"/>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeFFeCT139&theme=great-gatsby&show_icons=true)
