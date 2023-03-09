@@ -43,7 +43,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30"/>
 </div>
+
 ---
+
 <div id="leng-and-tools" align="center">
   <img src="./img/follow.png" width="400"/>
 </div>
