@@ -4,7 +4,10 @@
 </div>
 
 ---
-### :hammer_and_wrench: Stats :
+<div id="leng-and-tools" align="center">
+  <img src="./img/stats.png" width="400"/>
+</div>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeFFeCT139&theme=great-gatsby&hide_border=true&border_radius=8.9&date_format=%5BY.%5Dn.j&mode=weekly&background=00000000&stroke=777777&border=EB5454&ring=777777)](https://git.io/streak-stats)
 
