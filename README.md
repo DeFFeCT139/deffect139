@@ -4,6 +4,7 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeFFeCT139&theme=great-gatsby&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeFFeCT139&theme=great-gatsby&hide_border=true&border_radius=8.9&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
