@@ -3,10 +3,9 @@
   <img src="https://gfycat.com/eleganthalfamericancicada" width="100"/>
 </div>
 
-<div id="stats" display="flex">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeFFeCT139&theme=great-gatsby&show_icons=true)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeFFeCT139&theme=great-gatsby&show_icons=true)
 
+### :hammer_and_wrench: Languages and Tools :
 <div id="leng-and-tools" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30"/>
