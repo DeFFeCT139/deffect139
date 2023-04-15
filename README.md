@@ -2,13 +2,14 @@
   <img src="./img/maxresdefault.jpg" width="100%"/>
   <br>
 </div>
----
 
 ## Введение
 
 Привет и добро пожаловать в мое портфолио на Github! Здесь вы найдете коллекцию моих проектов и вклады в проекты с открытым исходным кодом. Я Front-end developer, и мне нравится использовать свои навыки, чтобы помогать людям и компаниям достигать их целей.
 ---
+
 ## Мои инструменты
+
 <div id="leng-and-tools" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30"/>
@@ -25,7 +26,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30"/>
 </div>
+
 ---
+
 ## проектов
 
 ### [PINGWING](https://pingwing.ru)
